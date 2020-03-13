@@ -1,0 +1,3637 @@
+predicate "ekū" [equine]
+: {} is an equine/member of genus Equus (the horses, donkeys, and zebras).
+
+predicate "elū" [elephant]
+: {} is an elephant.
+
+predicate "esā" [exa]
+: {-d} are 10<sup>18</sup> (1,000,000,000,000,000,000) in number; {-d} are a quintillion.
+
+illocution "ba" [imperative]
+: imperative
+
+predicate "batātā" [potato]
+: {} is a potato.
+
+quantifier "baq" [X.kind]
+: quantifier: X-kind; X in general
+- Generic reference.
+* Tỉfāı baq kủnē da. : Dogs are widespread.
+* Mả hẻ chỏ súq baq rủa moq? : Are you fond of flowers?
+* Rào púchāq bı kảqgāı jí baq tỉqshōaı da. : Yesterday, I saw butterflies.
+
+predicate "baı" [build]
+: {} builds/assembles/makes {}.
+
+predicate "bao" [white]
+: {} is the colour white.
+
+predicate "baogūı" [rice]
+: {} is rice.
+
+predicate "baorēo" [white]
+: {} is of white colour.
+
+predicate "bu" [not]
+: {0} is not the case / is false; {} does not satisfy property {}.
+
+predicate "bumērāq" [boomerang]
+: {} is a boomerang.
+
+predicate "burūaq" [deny; refute, contradict]
+: {} denies that {} is the case.
+- {} asserts that {} is not the case.
+
+predicate "bu dảı" [impossible]
+: {0} is impossible.
+
+predicate "bu tỉ" [away]
+: {d?} is away; {d?} is not present at {d?}.
+
+predicate "buq" [mouth]
+: {} is a mouth.
+
+predicate "buqlūao" [lip]
+: {} is a lip.
+
+predicate "bua" [inhabit]
+: {} inhabits {}.
+
+predicate "buajīo" [house]
+: {} is a house (building for living in).
+
+predicate "buaq" [fail]
+: {} fails to satisfy property {}.
+
+predicate "buaq gảı" [miss]
+: {d?} misses {d?}; {d?} fails to observe {d?}.
+
+predicate "buaı" [long]
+: {} is long.
+
+predicate "buaıtōq" [plank]
+: {} is a plank.
+
+predicate "buı" [outside]
+: {} is outside of {}.
+
+predicate "buıdūo" [move.outside]
+: {} moves out of {}.
+
+predicate "buıfā" [exit]
+: {} goes out of / exits {}.
+
+predicate "buo" [ready]
+: {} is ready to satisfy property {}.
+
+predicate "buoq" [non-serious]
+: {} is non-serious.
+
+predicate "bue" [home]
+: {} is a home of {}.
+
+particle "bı" [:]
+: terminates prenex
+
+predicate "bıdēo" [video]
+: {} is a video.
+
+predicate "bıkīnī" [bikini]
+: {} is a bikini.
+
+predicate "bırā" [beer]
+: {} is beer.
+
+predicate "bıq" [thousand]
+: {} are a thousand in number.
+
+predicate "bıa" [sick]
+: {} is sick/ill; {} is sick/ill with {}.
+
+predicate "bıajīo" [hospital]
+: {} is a hospital.
+
+predicate "bıaq" [enough]
+: {} is enough; {} sufficiently satisfies property {}.
+
+predicate "bıao" [confused]
+: {} is confused.
+
+predicate "bıu" [tube]
+: {} is a tube.
+
+predicate "bıushōaıcīa" [flea]
+: {} is a flea.
+
+predicate "bıo" [cup]
+: {} is a cup/glass.
+
+predicate "bıe" [after]
+: {0} takes place after {0}.
+
+predicate "bıejāo" [long.after]
+: {} takes place long after {}.
+
+predicate "bıejūı" [shortly.after]
+: {0} takes place shortly after {0}.
+
+predicate "bo" [have]
+: {} has/possesses {}.
+
+predicate "bodōa" [give]
+: {} gives possession of {} to {}.
+
+predicate "bohīaq" [poor]
+: {} is poor/unwealthy.
+
+predicate "bomīa" [rich]
+: {} is rich/wealthy.
+
+predicate "bonūa" [take]
+: {} takes possession of {} from {}.
+
+predicate "bonē" [wealth]
+: {} is the amount of {}'s wealth.
+
+predicate "bosē" [wasp]
+: {} is a wasp.
+
+predicate "boq" [prevent]
+: That {0} is the case prevents {0} from being the case.
+
+predicate "boqkīubū" [inevitable]
+: {} is inevitable.
+
+predicate "boaq" [shadow]
+: {} is a shadow; {} is a shadow of {}.
+
+predicate "boı" [since]
+: {0} takes place from {0} onwards.
+
+predicate "boe" [leaf]
+: {} is a leaf/sheet.
+
+predicate "be" [infant]
+: {} is an infant; {} is a baby.
+
+predicate "bebē" [baby]
+: {} is a baby.
+
+predicate "beq" [extrusion]
+: {} is an extrusion/swelling/convex.
+
+predicate "bea" [hinge.joint]
+: {} is a knee/elbow/knuckle.
+
+predicate "beaq" [stick]
+: {} is a stick/pole.
+
+prefix "beı" [emphasis]
+: puts emphasis on the following word
+
+predicate "beo" [change]
+: {} changes; {} changes in property {}.
+
+namesake predicate "ca" [cause]
+: {0} physically causes {0} to be the case.
+
+predicate "ca pỏaq" [cause.to.break]
+: {0 d?} breaks/splits/separates {0 d?}.
+
+predicate "caq" [conduct]
+: {} conducts/directs/manages {}.
+
+predicate "caqchūo" [controller]
+: {} is a controller (instrument for controlling) for {}.
+
+predicate "caqgīo" [traffic.light]
+: {} is a traffic light.
+
+predicate "caı" [strong]
+: {} is strong.
+
+predicate "caıdūa" [certain]
+: {} is certain that {} is the case.
+
+predicate "cao" [season]
+: {} is a season.
+
+linking word "cu" [3rd.place]
+: linking word: 3rd argument place
+
+predicate "cutāo" [spit]
+: {} spits.
+
+namesake predicate "cua" [respond]
+: {} responds to satisfying property {} by satisfying property {}.
+
+predicate "cuakūq" [respond]
+: {} responds {} to {}.
+
+predicate "cuaq" [concept]
+: {} is the concept/idea of satisfying property {}.
+* cúaq dẻ : the concept of beauty
+
+predicate "cuaı" [wet]
+: {} is wet.
+
+predicate "cuao" [beyond]
+: {} is beyond {} in property {}.
+
+predicate "cuı" [magenta]
+: {} is the colour magenta.
+
+predicate "cuırēo" [magenta]
+: {} is magenta-coloured.
+
+predicate "cuo" [assume]
+: {} assumes that {} is the case.
+
+predicate "cue" [reign]
+: {} reigns over {}.
+
+predicate "cuefūaı" [government]
+: {} is a government; {} is a government of {}.
+
+predicate "cha" [manner]
+: {0} takes place in way/form {0}.
+
+predicate "chaq" [day]
+: {} is a day.
+
+predicate "chaqtū" [daily]
+: {0} happens every day; {0} is daily.
+
+predicate "chaı" [tea]
+: {} is tea (beverage).
+
+predicate "chao" [vehicle]
+: {} is a vehicle.
+
+predicate "chaotīeq" [road]
+: {} is a road/street.
+
+predicate "chu" [middle]
+: {} is a middle; {} is the middle of {}.
+
+predicate "chufāq" [-ing]
+: {0} is ongoing; {0} is in the middle of taking place; {} is {}-ing.
+
+predicate "chuq" [eat]
+: {} eats; {} eats {}.
+
+predicate "chuqgūao" [fork]
+: {} is a fork.
+
+predicate "chuqkūaı" [hungry]
+: {} is hungry.
+
+predicate "chuqtīao" [edible]
+: {} is edible.
+
+predicate "chua" [name]
+: {} is a name of {}.
+
+predicate "chuadōa" [name]
+: {} names/calls {} name {}.
+
+predicate "chuaq" [ism]
+: {} is a tendency of behaviour, action, state, condition or opinion belonging to a class or group of persons, or the result of a doctrine, ideology or principle or lack thereof; {} is an ideology based on concept {}; {} is an ism; {} is an {}-ism.
+
+predicate "chuaı" [frozen]
+: {} is frozen.
+
+predicate "chuaıkēa" [freezer]
+: {} is a freezer.
+
+predicate "chuaınāo" [ice]
+: {} is ice (frozen water).
+
+predicate "chuaırūq" [hail]
+: {} is hail.
+* Shủa chúaırūq. : Hail is falling.
+
+predicate "chuaırūqshūa" [hail]
+: It hails; {} hails; {} hails onto {}.
+* Chủaırūqshūa. : It's hailing.
+
+predicate "chuao" [window]
+: {} is a window.
+
+predicate "chuaotīe" [window cover]
+: {} is a window cover.
+
+predicate "chuı" [early]
+: {0} is early.
+
+predicate "chuıhāq" [breakfast]
+: {} is breakfast.
+
+predicate "chuırīao" [dawn]
+: {} is dawn.
+
+predicate "chuo" [tool]
+: {} is a tool/utensil/resource/instrument for satisfying property {}.
+
+predicate "chue" [train]
+: {} is a train/caravan/succession.
+
+predicate "chuecē" [train.station]
+: {} is a train station.
+
+predicate "chı" [believe]
+: {} believe {} to be the case / to be true.
+
+predicate "chıjīo" [temple]
+: {} is a temple/church/sanctuary/synagogue/shrine.
+
+predicate "chıq" [insect]
+: {} is an insect/bug.
+
+predicate "chıa" [need]
+: {} needs to satisfy property {} to satisfy property {}.
+
+predicate "chıaq" [aware]
+: {} is conscious; {} is aware of {}.
+
+predicate "chıaı" [wrong]
+: {f?} is wrong/incorrect.
+
+predicate "chıaıtāo" [err]
+: {} errs; {} makes mistake {}.
+
+predicate "chıu" [address]
+: {} is the address/coordinates of {}.
+
+predicate "chıo" [repeat]
+: {0} repeats {0} times.
+
+predicate "chıe" [learn]
+: {} learns to satisfy property {}; {} learns how to satisfy property {}.
+
+predicate "chıejīo" [school]
+: {} is a school.
+
+predicate "chıetūa" [teach]
+: {} teaches {} property {}.
+
+predicate "chıeq" [cross]
+: {} intersects/crosses/traverses {}.
+
+predicate "chıeqfā" [cross]
+: {} crosses {}; {} goes across {}.
+
+predicate "cho" [like; like, fond of, enjoy, pleased by]
+: {} likes {}.
+* Chỏ da. : There is fondness.
+* Chỏ jí da. : I am experiencing fondness.
+* Hẻ chỏ déo báq rủa da. : The children are fond of flowers.
+* Chỏ súq hı nỉ fủa moq. : Which of these pieces of furniture do you like?
+* chó : those who have fondness
+
+predicate "chosōq" [favourite]
+: {} is the favourite of {} among {}.
+
+predicate "choq" [use]
+: {} uses {} for {}.
+
+predicate "choqgī" [useful]
+: {} is useful for doing {}.
+
+predicate "choqhūı" [useless]
+: {} is useless/inconvenient for doing {}.
+
+predicate "choqkīu" [usable]
+: {} is usable (possible to use).
+
+predicate "choqtīao" [usable]
+: {} is usable (fit for use).
+
+predicate "choa" [utter]
+: {} utters {}.
+
+predicate "choadēoq" [talk]
+: {} talks to {}.
+
+predicate "choalāq" [voice]
+: {} is a voice.
+
+predicate "choaq" [guest]
+: {} is a guest; {} is a guest of {}.
+
+predicate "choaqjīo" [hotel]
+: {} is a hotel/guesthouse.
+
+predicate "choaı" [cost]
+: {} costs {}.
+
+predicate "choı" [sharp]
+: {} is sharp.
+
+predicate "choıbēq" [thorn]
+: {} is a thorn.
+
+predicate "choıhūa" [thorn]
+: {} is a thorn.
+
+predicate "choe" [until]
+: {0} takes place until {0}.
+
+predicate "che" [-er]
+: {} is someone whose occupation it is to satisfy property {}.
+
+predicate "che chỉetūa" [teacher]
+: {} is a teacher.
+
+predicate "che gỉaqtāo" [musician]
+: {} is a musician.
+
+predicate "chea" [hat]
+: {} is a hat.
+
+predicate "chealīao" [mushroom]
+: {} is a mushroom.
+
+predicate "cheaq" [trusty]
+: {} is trusty/trusted to {}.
+
+predicate "cheı" [digit]
+: {} is a digit/finger/toe.
+
+predicate "cheo" [reciprocally]
+: {-d} are in reciprocal relationship {-d} with each other.
+
+predicate "cheoq" [bottle]
+: {} is a bottle.
+
+predicate "cı" [six]
+: {-d} are six in number.
+
+predicate "cıkō" [sixth]
+: {} is sixth among {}.
+
+predicate "cıa" [lack]
+: {} lacks property {}.
+
+predicate "cıu" [excrete]
+: {} excretes {}.
+
+predicate "cıurīaq" [toilet]
+: {} is a toilet.
+
+predicate "cıusē" [excretion]
+: {} is an excretion.
+
+predicate "cıo" [adolescent]
+: {} is adolescent/pubescent.
+
+predicate "cıe" [fish]
+: {} is a fish.
+
+quantifier "co" [how.many]
+: quantifier: how many
+
+predicate "coa" [bridge]
+: {} is a bridge.
+
+predicate "coaq" [tamed]
+: {} is tame/domesticated.
+
+predicate "coe" [joined]
+: {} is joined/connected to {}.
+
+predicate "coetūa" [join]
+: {} joins {} with {}.
+
+predicate "ce" [node]
+: {} is a node/station/port.
+
+predicate "cea" [sack]
+: {} is a sack/bag/pocket.
+
+predicate "ceo" [begin]
+: {0} begins/starts to occur; {} begins/starts to satisfy property {}.
+
+illocution "da" [ASS]
+: assertive illocution
+
+predicate "daq" [time]
+: {} is time.
+
+predicate "daqfāı" [frequent]
+: {0} occurs frequently/often.
+* dãqfāı : often
+
+predicate "daqfāo" [temporal.end]
+: {} is the end of {}; {} is the point at which {} ceases to be.
+
+predicate "daqfīa" [previous]
+: {0} is previous to {0} in time.
+
+predicate "daqkēa" [clock]
+: {} is a clock.
+
+predicate "daqlēı" [seldom]
+: {0} is seldom/infrequent.
+* dãqlēı : seldom
+
+predicate "daqmīq" [eternal]
+: {0} is eternal/forever.
+
+predicate "daqmōa" [moment]
+: {} is a moment.
+
+predicate "daqsīao" [temporal.beginning]
+: {} is the beginning of {}; {} is the point at which {} begins to be.
+
+predicate "daqsīe" [following]
+: {0} is following to {0} in time.
+
+predicate "daı" [possible]
+: {0} is possible; {0} is possible if {0} is so.
+* dãı : maybe; possibly
+
+predicate "daıchī" [hope]
+: {} has hope that {} is the case; {} believes {} can happen.
+
+predicate "daısīo" [idea]
+: {} is an idea.
+
+predicate "dao" [information]
+: {} is information/data.
+
+predicate "daosī" [interested]
+: {} is interested in {}; {} is curious about {}.
+
+predicate "du" [seem]
+: {0} seems to be the case; {} seems to satisfy property {}.
+
+predicate "duq" [habitually]
+: {} habitually satisfies property {}.
+
+namesake predicate "dua" [know]
+: {} knows {} to be the case / to be true.
+
+predicate "duachīe" [learn]
+: {} learns that {} is the case.
+
+predicate "duafūı" [obvious]
+: {0} is obvious; {0} is obvious to {0}.
+* dũafūı : obviously; clearly; of course
+
+predicate "duagī" [wise]
+: {} is wise.
+
+predicate "duahūı" [foolish]
+: {} is foolish.
+
+predicate "duasūe" [ask]
+: {} wants to know from {} fact {}; {} asks {} fact {}.
+
+predicate "duashāo" [wonder]
+: {} wonders about {}.
+
+predicate "duashō" [find.out]
+: {} discovers / finds out {}.
+
+predicate "duaq" [larva]
+: {} is a larva (distinct juvenile form undergone before metamorphosis into adult form).
+
+predicate "duaı" [must]
+: {} must satisfy property {}.
+
+predicate "duao" [sweet]
+: {} is sweet/sugary.
+
+predicate "duaohēa" [candy]
+: {} is a piece of candy.
+
+predicate "duı" [too.much]
+: {} is too much {}; {} satisfies property {} too much to satisfy property {}.
+
+predicate "duo" [move]
+: {} moves to {} from {}.
+
+predicate "duofūaq" [movie]
+: {} is a movie.
+
+predicate "duoı" [continue]
+: {0} lasts/continues; {0} lasts for time {0}.
+
+predicate "due" [correct]
+: {f?} is correct.
+
+predicate "dueq" [field]
+: {} is a field.
+
+predicate "dı" [allowed.to]
+: {} is allowed to satisfy property {}.
+
+predicate "dıa" [decrease]
+: {} decreases in how much it satisfies property {}.
+
+predicate "dıaq" [regular]
+: {0} occurs at regular intervals; {d?} satisfies property {d?} at regular intervals.
+
+predicate "dıaqkūe" [journal]
+: {} is a journal/periodical/newspaper.
+
+predicate "dıaı" [seven]
+: {-d} are seven in number; {f? d?} are seven things satisfying property {f? d?}.
+
+predicate "dıaıkō" [seventh]
+: {d?} is seventh among {d?}.
+
+predicate "dıao" [drop]
+: {} is a drop.
+
+predicate "dıu" [science]
+: {} is the branch of knowledge that studies {}; {} is a science.
+
+predicate "dıo" [daytime]
+: {} is a daytime.
+
+predicate "dıochū" [noon]
+: {} is a noon.
+
+predicate "dıochūhāq" [lunch]
+: {} is a lunch.
+
+predicate "dıofāo" [evening]
+: {} is an evening.
+
+predicate "dıosīao" [morning]
+: {} is a morning.
+
+predicate "dıe" [suggest]
+: {} suggests {}.
+
+predicate "dıeq" [send]
+: {} sends {} to {}.
+
+predicate "do" [variable.X]
+: variable X
+
+predicate "doq" [short]
+: {} is short.
+
+predicate "doa" [give]
+: {} gives property {} to {}.
+
+predicate "doaq" [settlement]
+: {} is a settlement/town/village/city.
+
+predicate "doaqpāq" [district]
+: {} is a district.
+
+predicate "doaı" [bread]
+: {-d} is bread.
+
+predicate "doı" [respect; esteem, respect, venerate, highly regard, value]
+: {} respects/venerates/esteems {}.
+* Dỏı da. : There is respect.
+* Dỏı jí da. : I am experiencing veneration.
+* Dỏı há ke pỏq tüa jẻaq gỉ jíaq ba. : One should highly regard the people who make the world better.
+* Hẻ dỏı súq hı pỏq moq. : Which people do you generally have respect for?
+* dóı : those who have respect
+
+predicate "doe" [function]
+: {} functions/performs property {}.
+
+predicate "de" [beautiful]
+: {} is beautiful.
+
+predicate "deq" [able]
+: {} is able / has the ability to satisfy property {}.
+
+predicate "dea" [hit]
+: {} hits/punches/kicks {}.
+
+predicate "deaq" [floor]
+: {} is a floor.
+
+predicate "deaqkōı" [crawl]
+: {} crawls.
+
+predicate "deaı" [worth; worth, deserve, deserving]
+: {} is worth/deserving of satisfying property {}.
+* Dẻaı ní lî kảqgāı da. : This is worth seeing.
+* déaı : those who are deserving of something
+
+predicate "deo" [child]
+: {} is a child.
+
+predicate "deoq" [communicate]
+: {} communicates to {} that they (the former) satisfy property {}.
+
+namesake predicate "fa" [go]
+: {} goes to {} from {}.
+
+predicate "farīkā" [Africa]
+: {} is Africa.
+
+predicate "faq" [happen]
+: {0} happens / takes place.
+
+predicate "faı" [frequent]
+: {} is frequent/common in property {}; {} satisfies frequent/common property {}.
+
+predicate "fao" [end]
+: {} is an end/ending; {} is an end/ending of {}.
+
+predicate "fu" [offspring]
+: {} is a biological offspring of {}.
+
+predicate "fuq" [clothing]
+: {} is an article of clothing / garment / dress.
+
+predicate "fua" [furniture]
+: {} is an item of furniture.
+
+predicate "fuaq" [picture]
+: {} is an image / a picture.
+
+predicate "fuaqkāı" [draw]
+: {} draws image {} on {}.
+
+predicate "fuaqkēa" [camera]
+: {} is a photo-camera.
+
+predicate "fuaı" [committee]
+: {} is a committee/board/commission/task force/panel.
+- Can refer to any body or group of people tasked with carrying out a particular function or with the accomplishment of some specific purpose.
+
+namesake predicate "fuı" [easy]
+: Satisfying property {1} is easy for {1}.
+
+predicate "fuo" [touch]
+: {} touches {} (non-somatic); {} is in contact with {}.
+
+predicate "fue" [hundred]
+: {-d} are a hundred in number.
+
+linking word "fı" [1st.place]
+: linking word, indicates that the following argument fills the first argument place of the predicate.
+
+predicate "fıa" [previous]
+: {} is previous to {} in sequence {}; {} precedes {} in sequence {}.
+
+predicate "fıu" [shallow]
+: {} is shallow.
+
+predicate "fıe" [ugly]
+: {} is ugly.
+
+predicate "fıeq" [create]
+: {} creates/invents {}.
+
+predicate "fotō" [photo]
+: {} is a photograph.
+
+predicate "foq" [phone]
+: {} is a telephone.
+
+predicate "foqdēoq" [talk.on.the.phone]
+: {} talks on the phone with {}.
+
+predicate "foa" [feel]
+: {} feels {} (good or bad); {} is {} (ill or well).
+
+predicate "foaq" [comfortable]
+: {} is comfortable; {} feels comfort; {} feels comfort in satisfying property {}.
+
+namesake predicate "foaqfūı" [convenient]
+: {1} is convenient; {1} is comfortably easy.
+
+predicate "foı" [bored]
+: {} is bored.
+
+predicate "fe" [five]
+: {-d} are five in number; {f? d?} are five things satisfying property {f? d?}.
+
+predicate "fekō" [fifth]
+: {} is fifth among {}.
+
+predicate "fea" [endure; survive, endure, undergo, abide, last, persist]
+: {d?} endures satisfying property {d?} keeping up property {d?}.
+- The third place property is maintained for as long as the second place property is being satisfied.
+* Fẻa mỉe dùoı hórā dỉaıhēıgū hó lî bủ chủq da. : They survived for 72 hours eating nothing.
+
+predicate "feı" [angry]
+: {} is angry/mad.
+
+predicate "feo" [direction]
+: {} is a direction.
+
+end-conversion "ga" [END]
+: terminates conversion via predicalizer.
+
+predicate "gaq" [accompany]
+: {} accompanies / is with {} in property {}.
+
+predicate "gaı" [perceive]
+: {} senses/observes/perceives state of affairs {}.
+
+predicate "gaıpūa" [enjoy]
+: {} enjoys sensing/observing {}.
+
+predicate "gao" [above]
+: {} is above {}.
+
+predicate "gaodūo" [move.upwards]
+: {} moves upwards.
+
+predicate "gaokōı" [climb]
+: {} climbs.
+
+predicate "gaopāq" [top]
+: {} is the top of {}.
+
+predicate "gu" [two]
+: {-d} are two in number; {f? d?} are two things satisfying property {f? d?}.
+
+predicate "guchīo" [twice]
+: {0} happens twice / two times.
+
+predicate "gukō" [second]
+: {} is second among {}.
+
+predicate "gulīaq" [pair]
+: {} is a pair/couple.
+
+predicate "gupāq" [half]
+: {} is a half.
+
+predicate "gushōaı" [fly]
+: {} is a fly.
+
+predicate "gusīoq" [bicycle]
+: {} is a bicycle/bike.
+
+predicate "guq" [below]
+: {} is below/underneath {}.
+
+predicate "guqdūo" [move.downwards]
+: {} moves downwards.
+
+predicate "guqpāq" [bottom]
+: {} is the bottom of {}.
+
+predicate "gua" [country]
+: {} is a country.
+
+predicate "guaq" [land]
+: {} is land/terrain.
+
+predicate "guaqnāo" [lake]
+: {} is a lake.
+
+predicate "guaı" [work]
+: {} works in satisfying property {}.
+
+predicate "guaırīaq" [workplace]
+: {} is a workplace / office.
+
+predicate "guao" [furcation]
+: {} is a furcation/fork/intersection/junction.
+
+predicate "guı" [grain]
+: {} is grain/cereal.
+
+predicate "guıpūo" [flour]
+: {} is flour.
+
+predicate "guo" [instance]
+: {} is a repetition/instance of {}.
+
+predicate "guosā" [sometimes]
+: {0} happens sometimes.
+
+predicate "guosīa" [never]
+: {0} happens never.
+
+predicate "guoq" [anus]
+: {} is an anus.
+
+predicate "gue" [curved]
+: {} is curved/bent.
+
+predicate "gı" [good]
+: {} is good.
+* Gỉ chảq ba. : Good day!
+* Gỉ dỉosīao ba. : Good morning!
+* Gỉ nủaq ba. : Good night!
+
+predicate "gıcīa" [free.of]
+: {} is free of property {}; {} not having property {} is good.
+
+predicate "gıdāıtūe" [opportunity]
+: {0} is an opportunity.
+
+predicate "gıgā" [giga]
+: {-d} are 10<sup>9</sup> (1,000,000,000) in number; {-d} are a billion.
+
+predicate "gınūe" [promise]
+: {} promises to {} to satisfy property {}, which is good for the latter.
+
+predicate "gınēq" [fortunate]
+: {0} is fortunate for {0}.
+
+predicate "gıtā" [guitar]
+: {} is a guitar.
+
+predicate "gıq" [opposite]
+: {} satisfies with reversed polarity property {}.
+
+predicate "gıq gỉ" [ungood]
+: {} is ungood.
+
+predicate "gıa" [ribbon]
+: {} is a ribbon/tape/strip/stripe.
+
+predicate "gıaq" [music]
+: {} is music.
+
+predicate "gıaqchūo" [musical.instrument]
+: {} is a musical instrument.
+
+predicate "gıaı" [incise]
+: {} incises/carves/scratches/engraves/cuts into {}.
+
+predicate "gıao" [dry]
+: {} is dry.
+
+predicate "gıu" [line]
+: {} is a line.
+
+predicate "gıo" [light]
+: {} is light.
+
+predicate "gıocīa" [dark]
+: {} is dark (without light).
+
+predicate "gıofūaq" [photograph]
+: {} is a photograph.
+
+predicate "gıohīaq" [dark]
+: {} is dark (poorly illuminated).
+
+predicate "gıokēa" [lamp]
+: {} is a lamp.
+
+predicate "gıomīa" [light]
+: {} is bright.
+
+predicate "gıe" [arm]
+: {} is an arm.
+
+predicate "gıebēa" [elbow]
+: {} is an elbow.
+
+predicate "gıejēoq" [armpit]
+: {} is an armpit.
+
+predicate "gıeshīo" [shoulder]
+: {} is a shoulder.
+
+predicate "gıeq" [shock]
+: {f?} shocks {f?}.
+
+linking word "go" [2nd.place]
+: linking word, indicates that the following argument fills the second argument place of the predicate.
+
+predicate "goa" [space]
+: {} is space/room.
+
+predicate "goafāı" [widespread]
+: {0} is widespread/common.
+
+predicate "goajāo" [far]
+: {} is spatially far away from {}.
+
+predicate "goaq" [smooth]
+: {} is smooth/even.
+
+predicate "goaı" [rub]
+: {} rubs against {} (intransitive non-agentive).
+
+namesake predicate "goaıcā" [rub]
+: {0} causes {0} to rub against {0}.
+
+predicate "goaıchēo" [rub.against.each.other]
+: {-d} rub against each other.
+
+predicate "goaıtūa" [rub]
+: {} makes {} rub against {}.
+
+predicate "goı" [treat]
+: {} treats/doctors {}.
+
+predicate "goe" [in]
+: {0} will happen in {0} (amount of time) from now.
+
+predicate "ge" [stimulus]
+: {} is a stimulus.
+
+predicate "geq" [meet]
+: {} meets {}.
+
+predicate "geqkūaı" [miss]
+: {} misses {}; {} hungers to meet {} (again).
+
+predicate "geqsīa" [alone]
+: {} is alone.
+
+predicate "gea" [high]
+: {} is high.
+
+predicate "geajēaqkēa" [lift]
+: {} is a lift.
+
+predicate "geanūa" [lift]
+: {} lifts up {}.
+
+predicate "geaq" [dirty]
+: {} is dirty/unclean/contaminated.
+
+predicate "geı" [wear]
+: {} wears {}.
+
+predicate "geo" [old]
+: {} is old.
+
+predicate "geonē" [age]
+: {} is the age of {}.
+
+predicate "ha" [one]
+: {-d} is one/you/they (generic impersonal pronoun).
+
+predicate "harānē" [spider]
+: {} is a spider.
+
+predicate "hasīa" [Asia]
+: {} is Asia.
+
+predicate "haq" [food]
+: {} is food.
+
+predicate "haqbāı" [prepare.food]
+: {d?} prepares food / cooks {d?}.
+
+predicate "haqbāısē" [meal]
+: {} is a meal; {} is prepared food.
+
+predicate "haqdōa" [feed]
+: {} feeds {} to {}.
+
+predicate "haqhūa" [stomach]
+: {} is a stomach.
+
+predicate "haqrīaı" [plate]
+: {} is a plate/dish.
+
+predicate "haı" [already]
+: {0} is already the case; {} already satisfies property {}.
+
+namesake predicate "hao" [stuff]
+: the salient predicate
+
+vocative "hu" [O]
+: vocative
+
+predicate "hushō" [hush]
+: {} becomes quiet/silent; {} hushes.
+
+predicate "Husōnā" [American]
+: {} is US-American/pertains to the USA.
+
+predicate "Husōnāgūa" [USA]
+: {} are the USA.
+
+predicate "hua" [body.part]
+: {} is a body part.
+
+namesake predicate "huaq" [more]
+: {} is more the case than {}; {} is more than {} in property {}.
+
+predicate "huaqchō" [prefer]
+: {} prefers {} over {}.
+
+predicate "huaq gỉ" [better]
+: {} is better than {}.
+
+predicate "huaq hủı" [worse]
+: {} is worse than {}.
+
+predicate "huaq pủı" [more.numerous]
+: {-d} are more numerous than {-d}.
+
+predicate "huaı" [scoop]
+: {} scoops {} out of {}.
+
+predicate "huaıchūo" [spoon]
+: {} is a spoon.
+
+predicate "huao" [loose]
+: {} is loose.
+
+predicate "huı" [bad]
+: {} is bad.
+
+predicate "huıcīa" [lack]
+: {} is lacking in that does not satisfy property {}; {} lacking property {} is bad.
+
+predicate "huılīe" [suffer]
+: {} suffers from experiencing property {}.
+
+predicate "huınūe" [threaten]
+: {} threatens {} with satisfying property {}.
+
+predicate "huınēq" [unfortunate]
+: {0} is unfortunate for {0}.
+
+predicate "huo" [auditory]
+: {} is auditory; {} pertains to the sense of hearing/audition.
+
+predicate "huogāı" [hear]
+: {} hears {}.
+
+predicate "huogī" [sound.good]
+: {} sounds good; {} sounds good to {}.
+
+predicate "huohūa" [ear]
+: {} is an ear.
+
+predicate "huokīu" [audible]
+: {} is audible.
+
+predicate "huokīubū" [inaudible]
+: {} is inaudible.
+
+predicate "huosī" [listen]
+: {} listens to {}.
+
+predicate "huoı" [tail]
+: {} is a tail.
+
+predicate "hue" [feather]
+: {} is a feather.
+
+quantifier "hı" [which]
+: which?
+
+predicate "hıaq" [poor]
+: {} is poor in relation {}; {} is in relation {} to/with few things.
+
+predicate "hıaı" [laugh]
+: {} laughs.
+
+predicate "hıaısē" [laughter]
+: {} is laughter.
+
+predicate "hıao" [harm]
+: {} harms/injures {}.
+
+predicate "hıaodāı" [dangerous]
+: {0} is dangerous.
+
+predicate "hıaorīeq" [escape]
+: {} escapes from {}.
+
+predicate "hıu" [river]
+: {} is a river.
+
+predicate "hıo" [greet]
+: {} greets {}.
+* Hỉo ka. : hello; bye
+
+predicate "hıotā" [yotta]
+: {-d} are 10<sup>24</sup> (1,000,000,000,000,000,000,000,000) in number; {-d} are a septillion.
+
+predicate "hıoq" [proud]
+: {} is proud / feels pride.
+
+predicate "hıe" [carry]
+: {} carries/bears/hauls {}.
+
+predicate "ho" [they]
+: {-d} is him/her/it / are them.
+
+predicate "horā" [hour]
+: {} is an hour.
+
+predicate "hoq" [it]
+: {-d} is it (abstract).
+
+predicate "hoqbīe" [afterwards]
+: {0} is afterwards.
+* hõqbīe : afterwards; after that
+
+predicate "hoqkūı" [therefore]
+: {0} is therefore the case.
+* hõqkūı : therefore; because of that
+
+predicate "hoa" [it]
+: relative pronoun whose antecedent is the head of the containing relative clause
+
+predicate "hoaq" [burn]
+: {} burns.
+
+predicate "hoaqkēa" [lighter]
+: {} is a lighter.
+
+predicate "hoaı" [still]
+: {0} is still the case.
+
+predicate "hoı" [aforementioned]
+: {} are the aforementioned things; {} is/are the aforementioned things that satisfy property {}.
+
+predicate "hoe" [sun]
+: {} is a sun.
+
+predicate "he" [generally]
+: {0} is generally the case; {0} is how things generally are. (gnomic aspect)
+
+predicate "heq" [contain]
+: {} contains {}.
+
+predicate "heqchūo" [container]
+: {} is a container.
+
+predicate "heqmūo" [full]
+: {} is full; {} is filled with {}.
+
+predicate "heqshēa" [empty]
+: {} is empty.
+
+predicate "hea" [piece]
+: {} is a piece/chunk; {} is a piece/chunk of substance {}.
+
+predicate "heaq" [carry]
+: {} carries/holds {}.
+
+predicate "heı" [ten]
+: {-d} are ten in number; {f? d?} are ten things satisfying property {f? d?}.
+
+predicate "heıgā" [oak]
+: {} is an oak.
+
+predicate "heıkō" [tenth]
+: {} is tenth among {}.
+
+predicate "heo" [different]
+: {} is different from {}; {} differs from {} in property {}.
+
+predicate "heorōpā" [Europe]
+: {} is Europe.
+
+predicate "heoq" [waist]
+: {} is a waist.
+
+predicate "heoqgīa" [belt]
+: {} is a belt.
+
+quantifier "ja" [lambda]
+: quantifier: lambda
+
+predicate "jakē" [jacket]
+: {} is a jacket.
+
+predicate "jarāfā" [giraffe]
+: {} is a giraffe.
+
+predicate "jaq" [very]
+: {0} is very much the case; {} is very/extremely {}.
+
+predicate "jaqbīaq" [enough.to]
+: {0} is sufficiently the case for {0} to be the case; {0} is so much so that {0} is the case.
+
+predicate "jaqgālā" [jungle]
+: {} is a jungle.
+
+predicate "jaqhēo" [to.different.degree]
+: {} is not the same amount as {} in property {}.
+
+predicate "jaqjēq" [to.same.degree]
+: {} is as much as {} in property {}.
+
+predicate "jaqnūı" [tiny]
+: {} is tiny.
+
+predicate "jaqsāo" [huge]
+: {} is huge.
+
+predicate "jaq bủ" [not.at.all]
+: {0} is not at all the case; {} does not satisfy property {} at all; {} very much does not satisfy property {}.
+
+predicate "jaı" [happy]
+: {} is happy/glad/joyful.
+
+predicate "jao" [far]
+: {} is far away from {} in property {}.
+
+predicate "jaokūq" [telephone]
+: {} is a telephone / walkie talkie.
+
+free modifier "ju" [begin.incidental]
+: begin incidental clause
+
+predicate "juq" [acquire]
+: {} gets/acquires property {}.
+
+predicate "juqgī" [benefit]
+: {0} benefits {0}.
+
+predicate "jua" [weird]
+: {} is weird/strange/bizarre.
+
+predicate "juaq" [even]
+: Even {0} is the case; even {} satisfies property {}.
+
+predicate "juaı" [serious]
+: {} is serious/earnest.
+
+predicate "juao" [rule]
+: {f?} is a rule/law.
+
+predicate "juaochīaı" [illegal]
+: {f?} is illegal; {f?} breaks rule {f?}; {f?} is against law {f?}.
+
+predicate "juaodūe" [legal]
+: {f?} is legal; {f?} is according to rule/law {f?}.
+
+predicate "juı" [near]
+: {} is near {} in property {}.
+
+predicate "juo" [letter]
+: {} is a letter (written message).
+
+predicate "juoq" [should]
+: {} should satisfy property {}.
+
+predicate "juoı" [describe]
+: {} describes {} as satisfying property {}.
+* Pủ jủoı sảo hó ní jỉo da.  : They described this building as big.
+* Hẻ jủoı hó jí lî mỏıjōe da.  : They describe me as smart.
+
+predicate "jue" [month]
+: {} is a month.
+
+predicate "juedīaq" [monthly]
+: {0} occurs monthly.
+
+predicate "jı" [me]
+: {-d} is me / the speaker.
+
+predicate "jıq" [actual]
+: {} exists / is real/actual.
+
+predicate "jıqdūa" [know]
+: {} knows that {} exists.
+
+predicate "jıa" [will.be]
+: {0} will happen.
+
+predicate "jıachāq" [tomorrow]
+: {} is tomorrow; {} is the day after today.
+
+predicate "jıajāo" [a.long.time.from.now]
+: {0} will happen a long time from now.
+
+predicate "jıajūı" [a.short.time.from.now]
+: {0} will happen in a short time from now.
+
+predicate "jıashāo" [hope]
+: {} hopes that {} will be the case.
+
+predicate "jıaq" [world]
+: {} is a world.
+
+predicate "jıaqtū" [universe]
+: {} is the universe.
+
+predicate "jıaı" [grasp]
+: {} grasps/holds {}.
+
+predicate "jıaıkōı" [climb]
+: {} climbs.
+
+predicate "jıaınūa" [remove]
+: {} takes/removes {} from {}.
+
+predicate "jıao" [god]
+: {} is a god.
+
+predicate "jıaojīo" [temple]
+: {} is a temple/church/sanctuary/synagogue/shrine.
+
+predicate "jıu" [born]
+: {} is born.
+
+predicate "jıuchāq" [birthday]
+: {} is a birthday of {}.
+
+predicate "jıo" [building]
+: {} is a building.
+
+predicate "jıoq" [calculate]
+: {} calculates what satisfies property {}.
+
+predicate "jıoqkēa" [computer]
+: {} is a computer.
+
+namesake predicate "jıe" [deemed]
+: {0} is as {0} deems/judges/evaluates things to be.
+* Jảq dẻ báq rủa jìe hó da. : Flowers are very beautiful to them.
+
+predicate "jıeq" [tip]
+: {} is a tip / pointed end.
+
+predicate "jo" [four]
+: {-d} are four in number; {f? d?} are four things satisfying property {f? d?}.
+
+predicate "jokō" [fourth]
+: {d?} is fourth among {d?}.
+
+predicate "jolīaq" [quartet]
+: {-d} is a quartet.
+
+predicate "joq" [main]
+: {} is main/chief among {}.
+
+predicate "joqdōaq" [capital]
+: {} is a capital city of {}.
+
+predicate "joqhūa" [head]
+: {} is a head (body part).
+
+predicate "joqshāq" [face]
+: {} is a face.
+
+predicate "joa" [week]
+: {} is a week.
+
+predicate "joachāq" [weekday]
+: {} is a weekday (day of the week).
+
+predicate "joachū" [during.the.week]
+: {0} is during the week (not during a weekend).
+
+predicate "joadīaq" [weekly]
+: {0} occurs weekly.
+
+predicate "joafāo" [weekend]
+: {} is a weekend.
+
+predicate "joaq" [leader]
+: {} is a leader of {}.
+
+predicate "joaı" [seek]
+: {} looks for property {}; {} searches for something which satisfies property {} among {}.
+
+predicate "joı" [along.with]
+: {0} is case the case along with {0}; {0} happens together with {0}.
+
+predicate "joe" [skilled]
+: {} is skilled at satisfying property {}.
+
+predicate "joetāo" [practice]
+: {} practices skill {}.
+
+sentence prefix "je" [new.sentence]
+: begin new sentence
+
+namesake predicate "jeq" [same]
+: {} is identical to {}; {} is the same as {} in property {}.
+
+predicate "jeqshūaq" [copy]
+: {} copies {}; {} produces an object identical to {}.
+
+predicate "jeqtū" [identical]
+: {} is identical to {}.
+
+predicate "jea" [buy]
+: {} makes a purchase; {} buys property {}; {} buys property {} from {}.
+
+predicate "jeajīo" [mall]
+: {} is a mall.
+
+predicate "jearīaq" [market]
+: {} is a market.
+
+predicate "jeaq" [increase]
+: {0} is increasingly the case; {} increases in how much it satisfies property {}.
+
+predicate "jeaqcāo" [spring]
+: {} is spring (season).
+
+predicate "jeaqdōa" [add]
+: {} adds {} to {}.
+
+predicate "jeaq gỉ" [improve]
+: {} improves / gets better.
+
+predicate "jeaq tỉjūı" [approach]
+: {} increases in its proximity to {}.
+
+predicatizer "jeı" [identical]
+: turns following phrase X into predicate: {} is X.
+
+namesake predicate "jeo" [is.true]
+: {0} is true / is the case; {} satisfies property {}.
+
+predicate "jeojūı" [almost]
+: {0} is almost the case; {} almost satisfies property {}.
+
+predicate "jeonūe" [promise]
+: {} promises to {} that {} is the case.
+
+predicate "jeoq" [concave]
+: {} is a concave shape; {} is a cavity/hollow/cavern.
+
+illocution "ka" [hereby]
+: performative illocution
+
+predicate "kafē" [coffee]
+: {} is coffee.
+
+predicate "kahā" [cough]
+: {} coughs.
+
+predicate "kaq" [visual]
+: {} is visual/optical; {} pertains to the sense of sight/vision.
+
+predicate "kaqchūo" [optical.tool]
+: {} is an optical tool.
+
+predicate "kaqgāı" [see]
+: {} sees {}.
+
+predicate "kaqgī" [look.good]
+: {} looks good; {} looks good to {}.
+
+predicate "kaqhūa" [eye]
+: {} is an eye.
+
+predicate "kaqhūatīe" [eyelid]
+: {} is an eyelid.
+
+predicate "kaqkīu" [visible]
+: {} is visible.
+
+predicate "kaqkīubū" [invisible]
+: {} is invisible.
+
+predicate "kaqnūo" [dream]
+: {f?} dreams {f?}.
+
+predicate "kaqshīa" [glasses]
+: {} are glasses.
+
+predicate "kaqsī" [look.at]
+: {} looks at {}.
+
+predicate "kaı" [write]
+: {} writes {} on {}.
+
+predicate "kaıfūa" [desk]
+: {} is a desk.
+
+predicate "kaıkēa" [typewriter]
+: {} is a typewriter.
+
+predicate "kaısē" [text]
+: {} is text/writing.
+
+predicate "kao" [record]
+: {f?} is a record of information/data {f?}.
+
+prefix "ku" [FOC]
+: marks focus
+
+predicate "kunē" [dog]
+: {} is a member of the genus Canis (the wolves, coyotes, jackals, dingoes, and dogs).
+
+predicate "kuq" [say]
+: {} says {} to {}.
+
+predicate "kuqsē" [text]
+: {} is text (spoken or written).
+
+predicate "kuqtōaı" [sentence]
+: {} is a sentence.
+
+predicate "kua" [room]
+: {} is a room.
+
+predicate "kuabūe" [appartment]
+: {} is an apartment/flat.
+
+predicate "kuaq" [express]
+: {} expresses property {}.
+
+predicate "kuaq kỉe" [thank]
+: {} thanks {}.
+* Kủaq kỉe jí ka. : Thank you (I hereby express my gratitude)
+
+predicate "kuaq shẻo" [apologize]
+: {} apologizes to {}.
+* Kủaq shẻo jí ka. : I apologize (I hereby express that I'm sorry)
+
+predicate "kuaı" [urge.for]
+: {} hungers/urges/longs for property {}.
+
+predicate "kuao" [cyan]
+: {} is the colour cyan.
+
+predicate "kuaochāq" [Friday]
+: {} is a Friday.
+
+predicate "kuaorēo" [cyan]
+: {} is of cyan colour.
+
+predicate "kuı" [because]
+: {0} is the case because {0}.
+* kùı : because
+
+predicate "kuıtūe" [reason]
+: {0} is a reason why {0} is the case.
+
+predicate "kuo" [black]
+: {} is the colour black.
+
+predicate "kuorēo" [black]
+: {} is of black colour.
+
+predicate "kuoq" [bone]
+: {} is a bone.
+
+predicate "kuoı" [less]
+: {} is less the case than {}; {} is less than {} in property {}.
+
+predicate "kue" [book]
+: {} is a book.
+
+predicate "kuejīo" [library]
+: {} is a library.
+
+predicate "kuepāq" [chapter]
+: {} is a chapter.
+
+predicate "kueshūo" [library]
+: {} is a library.
+
+predicate "kueq" [gather]
+: {-d} (plural) gather/collect at locus {-d} (intransitive and non-agentive).
+
+predicate "kueqtūa" [collect]
+: {} collects/gathers {} (plural) at locus {}.
+
+end-parenthetical "kı" [)]
+: terminates parenthetical
+
+predicate "kıq" [movie]
+: {} is a movie/film.
+
+predicate "kıqjīo" [cinema]
+: {} is a cinema / movie theater.
+
+predicate "kıqkēa" [camera]
+: {} is a film camera.
+
+predicate "kıa" [red]
+: {} is the colour red.
+
+predicate "kıachāq" [Monday]
+: {} is a Monday.
+
+predicate "kıarēo" [red]
+: {} is of red colour.
+
+predicate "kıaq" [hair]
+: {} is a hair.
+
+predicate "kıaı" [look.after]
+: {} looks after {}; {} takes care of {}.
+
+predicate "kıao" [door]
+: {} is a doorway.
+
+predicate "kıaotōq" [door]
+: {} is a door.
+
+predicate "kıu" [-able]
+: {} is {}able.
+
+start-parenthetical "kıo" [(]
+: start parenthetical
+
+predicate "kıoq" [ball]
+: {} is a ball/sphere.
+
+predicate "kıe" [thankful]
+: {} is thankful/grateful to {} for satisfying property {}.
+
+predicate "kıekūq" [thank]
+: {} says thanks to {}.
+
+predicate "kıeq" [disgusted]
+: {} experiences disgust.
+
+namesake predicate "ko" [nth]
+: {} is the xth among {} where x is the numerosity of any things satisfying property {} sorted by property {}.
+
+predicate "kopī" [copy]
+: {} is a copy of {}.
+
+predicate "kopīshūaq" [copy]
+: {} copies {}.
+
+predicate "ko gủ" [second]
+: {} is the second among {} sorted by property {}.
+
+predicate "ko sảq" [third]
+: {} is the third among {} sorted by property {}.
+
+predicate "ko shỉ" [first]
+: {} is the first among {} sorted by property {}.
+
+predicate "koq" [rough]
+: {} is rough/uneven.
+
+predicate "koqpīutā" [computer]
+: {} is a computer.
+
+predicate "koa" [cold]
+: {} is cold/cool.
+
+predicate "koacāo" [winter]
+: {} is winter.
+
+predicate "koakēa" [refrigerator]
+: {} is a refrigerator.
+
+predicate "koaq" [mature]
+: {} is mature/ripe/full-grown/adult.
+
+predicate "koaqlīq" [woman]
+: {} is a woman (adult female).
+
+predicate "koaqnāq" [man]
+: {} is a man (adult male).
+
+predicate "koaqrēq" [adult]
+: {} is an adult human.
+
+predicate "koaı" [net]
+: {} is a net/web/sieve/filter.
+
+predicate "koı" [ambulate]
+: {} ambulates (walks/runs/crawls).
+
+predicate "koıtīeq" [path]
+: {} is a walking path.
+
+namesake predicate "koe" [choose]
+: {} chooses {} out of {} for {}.
+
+predicate "koemēa" [option]
+: {} is an option.
+
+quantifier "ke" [the]
+: quantifier: the
+
+predicate "kebō" [horse]
+: {} is a horse (member of species Equus ferus caballus).
+
+predicate "keq" [feces]
+: {-d} are feces; {-d} is excrement/shit/poo.
+
+predicate "keqcīu" [defecate]
+: {} defecates/shits.
+
+predicate "kea" [machine]
+: {} is a machine/apparatus performing function {}.
+
+predicate "keaq" [salty]
+: {} is salty.
+
+predicate "keaı" [have.right; right, entitled, entitlement]
+: {} has the right to satisfy property {}.
+* Kẻaı tu rẻq da. : Every human has rights.
+* Kẻaı súq lî bủ kủq da. : You have the right to remain silent.
+* Mả kẻaı tỉ hó ní moq. : Do they have the right to be here?
+* kéaı : those who have rights
+
+sentence prefix "keo" [but]
+: but/however
+
+incidental "la" [meta]
+: begin meta clause; makes a comment about the containing sentence (text not content).
+
+predicate "laq" [sound]
+: {} is a sound; {} is audio.
+
+predicate "laqcāı" [loud]
+: {} is loud.
+
+predicate "laqgīa" [tape]
+: {} is an audio tape.
+
+predicate "laqkūe" [audiobook]
+: {} is an audiobook.
+
+predicate "laqrūe" [low]
+: {} is a weak/low sound.
+
+predicate "laı" [letter]
+: {} is a letter/glyph/sign/character/symbol/graphical component signifying {}.
+
+predicate "lao" [wait]
+: {} waits for {} to be the case.
+
+statement prefix "lu" [that]
+: statement prefix: turn statement into predicate
+
+predicate "luq" [calm]
+: {} is calm/silent.
+
+predicate "luqmōe" [calm]
+: {} is calm (emotionally).
+
+predicate "lua" [story]
+: {} is a story.
+
+predicate "luaq" [play]
+: {} plays / has fun with / uses for entertainment {}.
+
+predicate "luaı" [funny]
+: {} is funny/comical.
+
+predicate "luaılūa" [joke]
+: {} is a joke.
+
+predicate "luao" [lip]
+: {} is a lip (general sense).
+
+predicate "luı" [has.happened]
+: {0} has taken place.
+
+predicate "luınē" [age]
+: {} is the age of {}; {} is the time since {} has taken place.
+
+predicate "luo" [family]
+: {} is a family.
+
+predicate "luoq" [balanced]
+: {} is in balance with {}.
+
+predicate "lue" [yellow]
+: {} is the colour yellow.
+
+predicate "luechāq" [wednesday]
+: {} is a Wednesday.
+
+predicate "luerēo" [yellow]
+: {} is of yellow colour.
+
+predicate "lueq" [serve]
+: {} serves {} with property {}.
+
+predicate "lueqchē" [servant]
+: {} is a servant of {} with property {}.
+
+statement prefix "lı" [the.property]
+: statement prefix: turn statement into property
+
+predicate "lıq" [female]
+: {} is female.
+
+predicate "lıqdēo" [girl]
+: {} is a girl.
+
+predicate "lıqfū" [daughter]
+: {} is a daughter (female biological offspring) of {}.
+
+predicate "lıqpāo" [mother]
+: {} is a mother of {}; {} acts as a mother towards {}.
+
+predicate "lıqpīa" [sister]
+: {} is a sister of {}.
+
+predicate "lıqrōaq" [mother]
+: {} is a biological mother of {}.
+
+predicate "lıqrēq" [woman]
+: {} is a female human; {} is a woman.
+
+predicate "lıqsēo" [wife]
+: {} is a wife of {}.
+
+predicate "lıa" [beside]
+: {} is beside {}; {} is to the side of {}; {} is next to {}.
+
+predicate "lıaq" [tuple]
+: {} is a {}-tuple.
+
+predicate "lıaı" [swim]
+: {} swims.
+
+predicate "lıao" [fungus]
+: {} is a fungus/mushroom/mold.
+
+predicate "lıu" [light]
+: {} is light in weight.
+
+predicate "lıo" [left]
+: {} is to the left of {}.
+
+predicate "lıodūo" [move.left]
+: {} moves leftwards.
+
+predicate "lıopāq" [left.part]
+: {} is the left part of {}.
+
+predicate "lıe" [experience]
+: {} experiences satisfying property {}.
+
+predicate "lıeq" [wedge]
+: {} is a wedge.
+
+predicate "Lojībāq" [Lojban]
+: {} is the Lojban language.
+
+predicate "loq" [hot]
+: {} is hot/warm.
+
+predicate "loqcāo" [summer]
+: {} is summer.
+
+predicate "loqkēa" [heater]
+: {} is a heater.
+
+predicate "loa" [purple]
+: {} is the colour purple.
+
+predicate "loachāq" [sunday]
+: {} is a Sunday.
+
+predicate "loarēo" [purple]
+: {} is of purple colour.
+
+predicate "loaq" [buttocks]
+: {} is a buttocks/ass/behind.
+
+predicate "loaı" [flow]
+: {} flows.
+
+predicate "loı" [hate]
+: {} hates {}.
+
+predicate "loe" [flame]
+: {} is a flame/fire.
+
+predicate "le" [likely]
+: {0} is likely/probable.
+* lẽ : probably
+
+predicate "leq" [tongue]
+: {} is a tongue.
+
+predicate "lea" [art]
+: {} is art.
+
+predicate "leachē" [artist]
+: {} is an artist.
+
+predicate "leaq" [adjacent]
+: {} is adjacent to {} in property {}.
+
+predicate "leaqbūa" [neighbour]
+: {} is a neighbour of {}.
+
+predicate "leaqfīa" [precede]
+: {} immediately precedes {} in sequence {}.
+
+predicate "leaqsīe" [next]
+: {} immediately follows {} in sequence {}; {} is next after {} in sequence {}.
+
+predicate "leı" [rare]
+: {} is rare in property {}; {} satisfies rare/infrequent property {}.
+
+namesake predicate "leo" [try]
+: {} tries to satisfy property {}.
+
+predicate "leoq" [shield]
+: {} shields {} from {}.
+
+predicate "leoqchūo" [shield]
+: {} is a shield.
+
+statement prefix "ma" [whether]
+: statement prefix: whether
+
+predicate "mamā" [mama]
+: {} is mama (Mom, mommy, mum, mother).
+
+predicate "maq" [it]
+: {-d} is it (non-personal concrete).
+
+predicate "maı" [love]
+: {} loves {}.
+
+predicate "maıgāq" [SO]
+: {} is a boyfriend/girlfriend/SO of {}.
+
+predicate "maıjūo" [love.letter]
+: {} is a love letter.
+
+predicate "mao" [also]
+: {0} is also the case; {} also satisfies property {}.
+
+predicate "maojā" [banana]
+: {} is a banana.
+
+predicate "mu" [-ed]
+: {} satisfies property {} with the first and second places swapped.
+* Mủ kảqgāı hó. : They are being seen.
+* Chỏqgī hóı jỏemū da. : That skill is useful.
+
+predicate "muq" [hand]
+: {} is a hand.
+
+predicate "muqchēı" [finger]
+: {} is a finger.
+
+predicate "muqcēa" [handbag]
+: {} is a handbag.
+
+predicate "muqdēa" [punch]
+: {} punches {}.
+
+predicate "muqfūq" [glove]
+: {} is a glove.
+
+predicate "muqjēıbēa" [knuckle]
+: {} is a knuckle.
+
+predicate "mua" [example]
+: {f?} is an example of {f?}.
+
+predicate "muaq" [dead]
+: {} is dead.
+
+predicate "muaqshō" [die]
+: {} dies.
+
+predicate "muaqtūa" [kill]
+: {} kills {}.
+
+predicate "muaı" [umami]
+: {} has an umami taste.
+
+predicate "muao" [tree]
+: {} is a tree.
+
+predicate "muaogūaq" [forest]
+: {} is a forest.
+
+predicate "muaomē" [forest]
+: {} is a forest.
+
+predicate "muı" [meaning]
+: {0} is a meaning of {0}.
+
+predicate "muıdūa" [understand]
+: {} understands the meaning of {}.
+
+predicate "muo" [whole]
+: {} is whole/complete in aspect {}.
+
+predicate "muotūa" [mend]
+: {} mends {}; {} makes {} whole; {} completes {}.
+
+predicate "muo gỉ" [perfect]
+: {} is perfect.
+
+predicate "muoq" [made.of]
+: {} is made of {}.
+
+predicate "muoı" [rotate]
+: {} rotates/spins/turns.
+
+predicatizer "mı" [those.named]
+: turns following phrase X into predicate: {-d} is/are the one(s) called X.
+
+predicate "mınū" [minute]
+: {} is a minute.
+
+predicate "mıq" [infinite]
+: {} is infinite in property {}.
+
+namesake predicate "mıa" [rich]
+: {} is rich in relation {}; {} is in relation {} to/with many things.
+
+predicate "mıaq" [value]
+: {} is the value of {}.
+
+predicate "mıaqgāı" [esteem]
+: {} appreciates/esteems {}.
+
+predicate "mıaqjīe" [appreciate]
+: {} appreciates {}.
+
+predicate "mıaı" [rhyme]
+: {} rhymes with {}.
+
+predicate "mıaısē" [rhyme]
+: {} is a rhyme.
+
+predicate "mıao" [moon]
+: {} is a moon.
+
+predicate "mıu" [opine]
+: {} opines/thinks that {} is the case.
+
+namesake predicate "mıujēq" [agree]
+: {} agrees with {} that {} is the case.
+
+predicate "mıo" [blue]
+: {} is the colour blue.
+
+predicate "mıochāq" [saturday]
+: {} is a Saturday.
+
+predicate "mıorēo" [blue]
+: {} is of blue colour.
+
+predicate "mıe" [alive]
+: {} lives / is alive.
+
+predicate "mıefēa" [survive]
+: {} survives {}.
+
+predicate "mıehūa" [heart]
+: {} is a heart.
+
+predicate "mıeq" [measure]
+: {} measures/evaluates/determines what satisfies property {}.
+
+text-quote "mo" [«]
+: begin full-text quote.
+
+illocution "moq" [?]
+: interrogative illocution
+
+predicate "moa" [point]
+: {} is a point in {}.
+
+predicate "moaq" [remember]
+: {} remembers {}.
+
+predicate "moaqchūo" [mnemonic]
+: {} is a mnemonic for remembering {}.
+
+predicate "moaqshāı" [forget]
+: {} forgets {}.
+
+predicate "moaqsīo" [memory]
+: {} is a memory.
+
+predicate "moaı" [thick]
+: {} is thick.
+
+predicate "moı" [think]
+: {} thinks / is having a thought; {} thinks thought {}.
+
+predicate "moıhūa" [brain]
+: {} is a brain.
+
+predicate "moıjōe" [clever]
+: {} is clever/smart/witty/intelligent.
+
+predicate "moılāo" [hesitate]
+: {} hesitates.
+
+predicate "moınīeq" [stupid]
+: {} is dumb/stupid/unintelligent.
+
+predicate "moısī" [ponder]
+: {} ponders / concentrates mentally on {}.
+
+predicate "moısē" [thought]
+: {} is a thought.
+
+predicate "moe" [feel; emotion, feel]
+: {} experiences emotion {}.
+- The emotion is expressed as a property.
+
+predicate "moehūa" [organ.of.feeling]
+: {} is an organ of feeling/emotion (“heart”).
+
+predicate "moerīaq" [center.of.emotion]
+: {} is a heart/emotional/spiritual center/core.
+
+predicate "me" [aggregate]
+: {} is an aggregate of {}.
+
+predicate "megā" [mega]
+: {-d} are 10<sup>6</sup> (1,000,000) in number; {-d} are a million.
+
+predicate "merīkā" [America]
+: {} is America (continent).
+
+predicatizer "mea" [among]
+: turns following phrase X into predicate: {-d} is among X.
+
+predicate "meahēo" [other]
+: {-d} is different from {-d}; {-d} is not the same thing as {-d}; {-d} is something else than {-d}.
+- Equivalent to binary heo.
+
+predicate "meajēq" [same]
+: {-d} is the same thing as {-d}.
+- Same as binary jeq.
+
+predicate "meakūq" [mention]
+: {} mentions {} to {}.
+
+predicate "meaq" [ship]
+: {} is a ship/boat/vessel.
+
+predicate "meaqcē" [harbour]
+: {} is a harbour/haven.
+
+predicate "meı" [mountain]
+: {} is a mountain/hill.
+
+predicate "meırıe" [valley]
+: {} is a valley.
+
+predicate "meo" [sad]
+: {} is sad.
+
+predicate "meoq" [slow]
+: {0} is slow; {} slowly satisfies property {}.
+
+predicate "meoqkōı" [walk]
+: {} walks.
+
+terminator "na" [END]
+: terminate statement
+
+predicate "narāq" [orange]
+: {} is the colour orange.
+
+predicate "narāqchāq" [tuesday]
+: {} is a Tuesday.
+
+predicate "narāqrēo" [orange]
+: {} is of orange colour.
+
+predicate "naq" [male]
+: {} is male.
+
+predicate "naqdēo" [boy]
+: {} is a boy.
+
+predicate "naqfū" [son]
+: {} is a son (male biological offspring) of {}.
+
+predicate "naqpāo" [father]
+: {} is a father of {}; acts as a father towards {}.
+
+predicate "naqpīa" [brother]
+: {} is a brother of {}.
+
+predicate "naqrōaq" [father]
+: {} is a biological father of {}.
+
+predicate "naqrēq" [man]
+: {} is a male human; {} is a man.
+
+predicate "naqsēo" [husband]
+: {} is a husband of {}.
+
+namesake predicate "naı" [is]
+: {0} happens now.
+
+predicate "nao" [water]
+: {} is water.
+
+predicate "naogūaq" [island]
+: {} is an island.
+
+predicate "naokūa" [bathroom]
+: {} is a bathroom.
+
+predicate "naonīaı" [aquatic.life]
+: {} is an aquatic life form.
+
+predicate "nu" [such]
+: {} is such / is like that.
+* nũ : like this; like that
+
+predicate "nuq" [worm-like]
+: {} is a worm-like animal (animal with long cylindrical tube-like body and no limbs or with short limbs but crawling) (form classification).
+
+predicate "nua" [take]
+: {} takes/removes property {} from {}.
+
+predicate "nuakōe" [pick]
+: {} picks {}; {} chooses and takes {}.
+
+predicate "nuaq" [night]
+: {} is a night.
+
+predicate "nuaqchū" [midnight]
+: {} is midnight.
+
+predicate "nuaı" [money]
+: {} is money.
+
+predicate "nuaıjīo" [bank]
+: {} is a bank.
+
+predicate "nuao" [arch]
+: {} is an arch; {} arches.
+
+predicate "nuı" [small]
+: {} is small/little.
+
+predicate "nuıdōaq" [town]
+: {} is a town.
+
+predicate "nuo" [sleep]
+: {} sleeps / is asleep.
+
+predicate "nuofūq" [pyjama]
+: {} is a pyjama.
+
+predicate "nuofūa" [bed]
+: {} is a bed.
+
+predicate "nuokūa" [bedroom]
+: {} is a bedroom.
+
+predicate "nuokūaı" [tired]
+: {} is tired.
+
+predicate "nuoq" [reflect]
+: {} reflects/mirrors/echoes {}.
+
+predicate "nuoı" [masticate]
+: {} chews; {} chews {}; {} chews on {}.
+
+predicate "nue" [promise]
+: {} promises/threatens to {} to satisfy property {}.
+
+predicate "nueq" [meat]
+: {} is meat/flesh.
+
+predicate "nı" [this]
+: {-d} is this/that; {-d} is this/that/those thing(s) satisfying property {-d}.
+
+predicate "nıchāq" [today]
+: {} is today.
+
+predicate "nıdāq" [now]
+: {} is the now.
+
+predicate "nıjāo" [far.away]
+: {-d} is that far away thing.
+
+predicate "nıjūı" [nearby]
+: {-d} is this nearby thing.
+
+predicate "nınūaq" [tonight]
+: {} is tonight.
+
+predicate "nıq" [new]
+: {} is new; {} is new to {}.
+
+predicate "nıqdāo" [news]
+: {} are news.
+
+predicate "nıqdūa" [discover]
+: {} discovers / finds out {}.
+
+predicate "nıqgūo" [again]
+: {0} happens again.
+
+predicate "nıqgūokūaı" [miss]
+: {} misses {}; {} hungers for {} to happen again.
+
+predicate "nıa" [low]
+: {} is low.
+
+predicate "nıaq" [year]
+: {} is a year.
+
+predicate "nıaqdīaq" [annual]
+: {0} is annual.
+
+predicate "nıaı" [animal]
+: {} is an animal.
+
+predicate "nıao" [snow]
+: {} is snow.
+
+predicate "nıaoshūa" [snow]
+: It snows; {} snows; {} snows onto {}.
+* Nỉaoshūa. : It's snowing.
+
+predicate "nıu" [plant]
+: {} is a plant.
+
+predicate "nıubōe" [leaf]
+: {} is a leaf (of a plant).
+
+predicate "nıo" [young]
+: {} is young.
+
+predicate "nıodē" [cute]
+: {} is cute.
+
+predicate "nıoq" [tooth]
+: {} is a tooth.
+
+predicate "nıe" [inside]
+: {} is inside {}.
+
+predicate "nıefā" [enter]
+: {} enters / goes inside {}.
+
+predicate "nıeshūa" [fall.in]
+: {} falls into {}.
+
+predicate "nıetūa" [insert]
+: {} puts {} inside {}.
+
+predicate "nıeq" [unskilled]
+: {} is unskilled at satisfying property {}.
+
+predicate "no" [in]
+: {} is in format/medium/genre {}.
+* Dẻoq súq nò hı tóaq moq? : In what language are you communicating?
+* nò Fárāqsē : in French
+
+predicate "noq" [gustatory]
+: {} is gustatory; {} pertains to the sense of taste/gustation.
+
+predicate "noqgāı" [taste]
+: {} tastes state of affairs {}.
+
+predicate "noqgī" [delicious]
+: {} tastes good / is delicious; {} tastes good / is delicious to {}.
+
+predicate "noqhūı" [taste.bad]
+: {} tastes bad; {} tastes bad to {}.
+
+predicate "noqsī" [taste-listen]
+: {} listens to the taste of {}.
+
+predicate "noa" [difficult]
+: Satisfying property {1} is difficult for {1}.
+
+predicate "noaq" [read]
+: {} reads {} from {}.
+
+predicate "noaı" [milk]
+: {} is milk.
+
+predicate "noı" [pain]
+: {} is pain.
+
+predicate "noılīe" [suffer]
+: {} suffers / has pain.
+
+predicate "ne" [amount]
+: {} is how much {} is the case; {} is the amount that {} is the case.
+
+predicate "neq" [luck]
+: {0} is determined by the luck/fortunate of {0}.
+
+predicate "nea" [wide]
+: {} is wide/broad.
+
+predicate "neaq" [sand]
+: {} is sand.
+
+predicate "neaqgūaq" [desert]
+: {} is a desert.
+
+predicate "neı" [nine]
+: {-d} are nine in number; {f? d?} are nine things satisfying property {f? d?}.
+
+predicate "neıkō" [ninth]
+: {d?} is ninth among {d?}.
+
+predicate "neo" [on]
+: {} is on {}.
+
+predicate "neoq" [mr/mrs]
+: {} is a Mr./Mrs./Ms./Miss.
+
+terminator "pa" [:]
+: terminate prenex and apply prenex arguments to predicate in order
+
+predicate "papā" [papa]
+: {} is papa (Dad, daddy, father).
+
+predicate "patī" [party]
+: {} is a party (gathering for entertainment, fun and socializing).
+
+predicate "paq" [part]
+: {} is a part of {}.
+
+predicate "paqcīa" [lack]
+: {} lacks part {}; {} is missing part {}.
+
+predicate "paqmūo" [whole]
+: {} is whole/complete.
+
+predicate "paqnūa" [remove]
+: {} removes part {} from {}.
+
+predicate "paqshāı" [lose]
+: {} loses part {}.
+
+predicate "paqtāo" [participate]
+: {} takes part in {}; {} participates in {}.
+
+namesake predicate "paı" [friend]
+: {} is a friend; {} is a friend of {}.
+
+predicate "paıgī" [friendly]
+: {} is friendly towards {}.
+
+predicate "paırūo" [friendly]
+: {} acts friendly/kindly towards {}.
+
+predicate "pao" [parent]
+: {} is a parent of {}; {} acts parental towards {}; {} raises {}.
+
+predicate "pu" [was]
+: {0} happened / occured / was the case.
+
+predicate "puchāq" [yesterday]
+: {} is yesterday.
+
+predicate "pujāo" [long.ago]
+: {0} happened a long time ago.
+
+predicate "pujūı" [shortly.ago]
+: {0} happened a short time ago.
+
+predicate "puq" [multiple]
+: {-d} are more than one / multiple things.
+
+predicate "puqhō" [they]
+: {-d} are them.
+
+predicate "pua" [enjoy]
+: {} enjoys satisfying property {}.
+
+predicate "puaq" [somatic]
+: {} is somatic/tactile; {} pertains to the sense of touch/somatosensation.
+
+predicate "puaqgāı" [touch.feel]
+: {} touch feels {}.
+
+predicate "puaqgī" [feel.good]
+: {} is nice to the touch; {} is nice to the touch of {}.
+
+predicate "puaqsī" [touch.feel]
+: {} focuses on touch feeling {}.
+
+predicate "puaı" [wild]
+: {} is wild/untamed.
+
+predicate "puao" [cloud]
+: {} is a cloud.
+
+predicate "puı" [many]
+: {-d} are many.
+
+predicate "puıjēq" [same.number]
+: {} are equal in number to {}; {} and {} are equinumerous.
+
+predicate "puıpōqchāo" [bus]
+: {} is a bus/omnibus.
+
+predicate "puıshō" [multiply]
+: {} multiplies.
+
+predicate "puısīa" [zero]
+: {-d} are zero in number; {-d} are none.
+
+predicate "puıtūa" [multiply]
+: {} multiplies {}.
+
+predicate "puıtūao" [few]
+: {-d} are few in number.
+
+predicate "puo" [powder]
+: {} is powder.
+
+predicate "pue" [foot]
+: {} is a foot.
+
+predicate "puebēa" [knee]
+: {} is a knee.
+
+predicate "puedēa" [kick]
+: {} kicks {}.
+
+predicate "puefūq" [shoe]
+: {} is a shoe.
+
+predicate "puegāo" [sock]
+: {} is a sock.
+
+predicate "puejēı" [toe]
+: {} is a toe.
+
+predicate "pueshīo" [hip]
+: {} is a hip.
+
+predicate "pueq" [tread]
+: {} steps/treads on {}.
+
+predicate "pı" [urine]
+: {} is urine/pee/piss.
+
+predicate "pıcīu" [urinate]
+: {} urinates/pees/pisses.
+
+predicate "pıjāmā" [pyjama]
+: {} is a pyjama.
+
+predicate "pısō" [pear]
+: {} is a pear.
+
+predicate "pıa" [sibling]
+: {} is a sibling of {}.
+
+predicate "pıanō" [piano]
+: {} is a piano.
+
+predicate "pıao" [complicated]
+: {} is complicated/complex.
+
+predicate "pıu" [skin]
+: {} is skin/peel/crust/hide/rind/outer cover.
+
+predicate "pıo" [rock]
+: {} is rock (material).
+
+predicate "pıe" [drink]
+: {} drinks {}.
+
+predicate "pıekūaı" [thirsty]
+: {} is thirsty.
+
+predicatizer "po" [of]
+: turns following phrase X into predicate: {} is of X; {} is associated with X.
+
+predicate "pohō" [his/her]
+: {} is his/hers/theirs.
+
+predicate "pojī" [my]
+: {} is mine.
+
+predicate "pomāq" [its]
+: {} is its.
+
+predicate "popūqhō" [their]
+: {} is theirs.
+
+predicate "popūqjī" [our]
+: {} is ours.
+
+predicate "popūqsūq" [your]
+: {} is yours.
+
+predicate "posūq" [your]
+: {} is yours.
+
+predicate "posūqjī" [our]
+: {} is ours.
+
+namesake predicate "poq" [person]
+: {} is a person.
+
+predicate "poqmē" [group.of.people]
+: {} is a group of people.
+
+predicate "poa" [closed]
+: {} is closed/shut.
+
+predicate "poaq" [break]
+: {} breaks/parts/splits.
+
+predicate "poaqsē" [shard]
+: {} is a shard/cullet.
+
+predicate "poaı" [seed]
+: {} is a seed/spore/egg/gamete/ovum/sperm/pollen.
+
+predicate "poe" [apart]
+: {} is apart/separate from {} in property {}.
+
+namesake predicate "pe" [for]
+: {0} is the case for/by the standard of {0}.
+* Nủı ní pè báq hẻlū da. : This one is small for an elephant.
+
+predicate "petā" [peta]
+: {-d} are 10<sup>15</sup> (1,000,000,000,000,000) in number; {-d} are a quadrillion.
+
+predicate "peq" [paper]
+: {} is paper.
+
+predicate "peqbōe" [sheet]
+: {} is a sheet of paper.
+
+predicate "pea" [ago]
+: {0} happened {0} (amount of time) ago.
+* pèa sa dáqnē : some time ago
+
+predicate "peo" [through]
+: {} passes through {}.
+
+conjunction "ra" [or]
+: inclusive or
+
+predicate "radīo" [radio]
+: {} pertains to radio transmission.
+
+predicate "raq" [about]
+: {} pertains to / is about {}.
+
+predicate "raqmōı" [think.about]
+: {} thinks about {}.
+
+predicate "raı" [something]
+: {} is something.
+
+predicate "raıjēq" [same]
+: {-d} is the same thing as {-d}.
+
+predicate "rao" [when]
+: {0} happens at the same time as {0}; {0} is simultaneous with {0}.
+* rào sa ráı : some time; at some point
+* rào sıa dáqmōa : never, at no moment
+* rào tu cháq : every day
+* rào tu dáqmōa : always, at every moment
+
+conjunction "ru" [and]
+: and
+
+predicate "ruq" [rain]
+: {} is rain.
+
+predicate "ruqdīao" [raindrop]
+: {} is a raindrop.
+
+predicate "ruqnūao" [rainbow]
+: {} is a rainbow.
+
+predicate "ruqshūa" [rain]
+: It rains; {} rains; {} rains onto {}.
+* Rủqshūa. : It's raining.
+
+predicate "rua" [flower]
+: {} is a flower.
+
+predicate "ruaq" [assert]
+: {} asserts/claims {} to be the case.
+
+predicate "ruaı" [royal]
+: {} is royal/noble/aristocratic.
+
+predicate "ruaıchēa" [crown]
+: {} is a crown.
+
+predicate "ruaıjōaq" [king/queen]
+: {} is a king/queen.
+
+predicate "ruaılīqfū" [princess]
+: {} is a princess.
+
+predicate "ruaınāqfū" [prince]
+: {} is a prince.
+
+predicate "ruao" [forgive]
+: {} forgives {} for satisfying property {}.
+
+predicate "ruı" [gray]
+: {} is the colour gray.
+
+predicate "ruırēo" [gray]
+: {} is of gray colour.
+
+predicate "ruo" [behave]
+: {} behaves in way {} (property); {} conducts themselves in manner {} (property).
+
+predicate "ruogī" [kind]
+: {} is well-behaved/good/nice.
+
+predicate "ruoq" [straight]
+: {} is straight/linear.
+
+predicate "ruoı" [thin]
+: {} is thin.
+
+predicate "rue" [weak]
+: {} is weak/feeble.
+
+predicate "rueq" [tight]
+: {} is tight.
+
+predicate "rıq" [green]
+: {} is the colour green.
+
+predicate "rıqchāq" [thursday]
+: {} is a Thursday.
+
+predicate "rıqrēo" [green]
+: {} is of green colour.
+
+predicate "rıa" [open]
+: {} is open.
+
+predicate "rıaq" [place]
+: {} is a place/site; {} is the place/site of {}.
+
+predicate "rıaı" [support]
+: {} supports {}; {} holds up {}.
+
+predicate "rıao" [twilight]
+: {} is a twilight/dawn/dusk/half-light/glimmering.
+
+predicate "rıu" [return]
+: {} returns to satisfying property {}.
+
+predicate "rıubēaq" [boomerang]
+: {} is a boomerang.
+
+predicate "rıudūo" [return]
+: {} returns to {}; {} moves back to {}.
+
+predicate "rıudōa" [give.back]
+: {} returns {} to {}; {} gives property {} back to {}.
+
+predicate "rıufā" [return]
+: {} returns to {}; {} goes back to {}.
+
+predicate "rıo" [air]
+: {} is air.
+
+predicate "rıochāo" [aircraft]
+: {} is an aircraft/plane.
+
+predicate "rıofā" [fly]
+: {} flies; {d?} flies to {d?} from {d?}.
+
+predicate "rıoq" [type]
+: {} is a type/kind of {}
+
+predicate "rıe" [between]
+: {} is between/amidst/among {} (plural).
+
+predicate "rıeq" [avoid]
+: {} avoids/evades satisfying property {}.
+
+conjunction "ro" [xor]
+: exclusive or
+
+predicate "roq" [weep]
+: {} cries/weeps; {} cries tears {}.
+
+predicate "roqdīao" [tear]
+: {} is a tear/teardrop.
+
+predicate "roa" [natural]
+: {} is natural.
+* rõa : naturally
+
+predicate "roajīaq" [nature]
+: {} is nature.
+
+predicate "roaq" [parent]
+: {} is a biological parent of {}.
+
+predicate "roaı" [eight]
+: {-d} are eight in number; {f? d?} are eight things satisfying property {f? d?}.
+
+predicate "roaıkō" [eighth]
+: {d?} is eighth among {d?}.
+
+conjunction "roı" [and]
+: plural and
+
+predicate "roe" [healthy]
+: {} is healthy.
+
+predicate "roeshō" [recover]
+: {} recovers; {} becomes healthy.
+
+predicate "req" [human]
+: {} is a human.
+
+predicate "reqsīu" [humanoid]
+: {} is humanoid/human-like.
+
+predicate "rea" [border]
+: {} is a border/edge of {}.
+
+predicate "reaq" [lie]
+: {} lies on {}; {} reclines on {}.
+
+predicate "reı" [around]
+: {} is around {}; {} surrounds {}.
+
+predicate "reo" [coloured]
+: {} is coloured; {} is of colour {}.
+* Chỏ jí ní rẻo. : I like this colour.
+* Rẻo ní hı ráı moq. : What colour is this?, What colour does this have?
+
+predicate "reosīa" [colourless]
+: {} is colourless.
+
+predicate "reoq" [late]
+: {0} is late.
+
+predicate "reoqhāq" [dinner]
+: {} is dinner (late/evening meal).
+
+predicate "reoqrīao" [dusk]
+: {} is dusk.
+
+quantifier "sa" [some]
+: existential quantifier
+* sa póq : someone; somebody
+* sa ráı : something
+* sa túq rảı : all things (together)
+
+predicate "sabāq" [soap]
+: {} is soap.
+
+predicate "sarālīa" [Australia]
+: {} is Australia.
+
+predicate "saq" [three]
+: {-d} are three in number; {f? d?} are three things satisfying property {f? d?}.
+
+predicate "saqchīo" [thrice]
+: {0} happens thrice / three times.
+
+predicate "saqkō" [third]
+: {d?} is third among {d?}.
+
+predicate "saqlīaq" [triplet]
+: {} is a triplet.
+
+predicate "saqsīoq" [tricycle]
+: {} is a tricycle.
+
+predicate "saı" [matter]
+: {} is matter/material/substance.
+
+predicate "sao" [big]
+: {} is big/large.
+
+predicate "saodōaq" [city]
+: {} is a city.
+
+predicate "saojēaq" [grow]
+: {} grows / gets bigger.
+
+predicate "su" [previous.predicate]
+: {variable -d} are [previous predicate].
+
+predicate "suhū" [pig]
+: {} is a pig.
+
+predicate "suq" [you]
+: {-d} is you / the listener.
+
+predicate "suqjī" [we]
+: {-d} is us (we, the speaker and the listener(s)).
+
+predicate "sua" [necessary]
+: {0} is necessary for {0} to happen.
+
+predicate "suahūaq" [superfluous]
+: {0} is superfluous / more than is necessary for {0} to happen.
+
+predicate "suaq" [sing]
+: {} sings.
+
+predicate "suaı" [fast]
+: {0} is fast/quick; {} quickly does {}.
+
+predicate "suaıkūaı" [in.a.hurry]
+: {} is in a hurry; {} feels the urge to quickly satisfy property {}.
+
+predicate "suaıkōı" [run]
+: {} runs.
+
+predicate "suao" [important]
+: {} is important.
+
+predicate "suaojīe" [care]
+: {} cares about {}; {} considers {} important.
+
+predicate "suı" [least]
+: {} is least in property {} among {}.
+
+predicate "sue" [request]
+: {} asks {} to satisfy property {}.
+
+predicate "suetā" [sweater]
+: {} is a sweater.
+
+predicate "sha" [arrive]
+: {} arrives at satisfying property {}.
+
+predicate "shahā" [chess]
+: {} is chess.
+
+predicate "shamū" [apple]
+: {} is an apple.
+
+predicate "shaq" [in.front]
+: {} is in front of {}.
+
+predicate "shaı" [cease]
+: {0} ceases to be the case; {} stops satisfying property {}; {} loses property {}.
+
+predicate "shao" [want]
+: {} wants {} to be the case.
+
+predicate "shaogī" [good]
+: {} is good/virtuous.
+
+predicate "shaohūı" [bad]
+: {} is bad/evil/wicked.
+
+predicatizer "shu" [the.phrase]
+: turn next phrase into quote predicate
+
+predicate "shua" [fall]
+: {} falls to {} from {}.
+
+predicate "shuacāo" [autumn]
+: {} is autumn/fall.
+
+predicate "shuaq" [produce]
+: {} produces {}.
+
+predicate "shuaqjīo" [factory]
+: {} is a factory.
+
+predicate "shuaqsē" [product]
+: {} is a product.
+
+predicate "shuaı" [simple]
+: {} is simple.
+
+predicate "shuao" [bird]
+: {} is a bird.
+
+predicate "shuı" [secret]
+: {0} is secret.
+
+predicate "shuo" [reserve]
+: {} is a source/deposit/supply/reserve of {}.
+
+predicate "shue" [remain]
+: {} remains/stays/keeps satisfying property {}.
+
+predicate "shueq" [bitter]
+: {} is bitter.
+
+predicate "shı" [one]
+: {-d} is one in number; {f? d?} is one thing satisfying property {f? d?}.
+
+predicate "shıchīo" [once]
+: {0} happens once / one time.
+
+predicate "shıhō" [he/she]
+: {-d} is him/her (singular).
+
+predicate "shıkō" [first]
+: {} is first among {}.
+
+predicate "shırāı" [individual]
+: {} is an individual.
+
+predicate "shıq" [smell]
+: {} is olfactory; {} pertains to the sense of smell/olfaction.
+
+predicate "shıqgāı" [smell]
+: {} smells state of affairs {}.
+
+predicate "shıqhūa" [nose]
+: {} is a nose.
+
+predicate "shıa" [glass]
+: {} is glass.
+
+predicate "shıabīo" [glass]
+: {} is a glass (container).
+
+predicate "shıapōaqsē" [glass.shard]
+: {} is a glass shard; {} is a piece of broken glass.
+
+predicate "shıaq" [leg]
+: {} is a leg.
+
+predicate "shıu" [before]
+: {0} is before / in the past of {0}.
+
+predicate "shıujāı" [look.forward]
+: {} looks forward to {}; {} is in joyful anticipation of {}.
+
+predicate "shıukūnē" [raccoon]
+: {} is a racoon; {} is a member of genus Procyon.
+
+predicate "shıumē" [past]
+: {} is a/the past.
+
+predicate "shıumējīo" [museum]
+: {} is a museum.
+
+predicate "shıo" [ball.joint]
+: {} is a hip/shoulder.
+
+predicate "shıe" [awake]
+: {} is awake.
+
+predicate "sho" [become]
+: {} becomes such that they satisfy property {}.
+
+predicate "shoa" [deep]
+: {} is deep.
+
+predicate "shoaı" [wing]
+: {} is a wing.
+
+predicate "shoı" [scream]
+: {} screams/shouts/yells/cries.
+
+predicate "shoe" [allow]
+: {} lets {} happen; {} allows {} to happen.
+
+predicate "she" [if]
+: {0} is the case if {0} is the case.
+
+predicate "shea" [empty]
+: {} is empty in aspect {}.
+
+predicate "sheaq" [stand]
+: {} stands on {}.
+
+predicate "sheı" [free]
+: {} is free to do {}.
+
+predicate "sheo" [regret]
+: {} regrets satisfying property {}.
+
+predicate "sheokūq" [apologize]
+: {} says sorry to {}.
+
+predicate "sı" [attentive]
+: {} is attentive to / focuses on {}.
+
+predicate "sıdī" [CD]
+: {} is a CD.
+
+predicate "sıgā" [cigarette]
+: {} is a cigarette.
+
+predicate "sımī" [monkey]
+: {} is a monkey.
+
+predicate "sıq" [clean]
+: {} is clean/pure.
+
+predicate "sıqkēa" [washing.machine]
+: {} is a washing machine.
+
+quantifier "sıa" [no]
+: zero quantifier.
+* sıa póq : no-one
+* sıa ráı : nothing
+
+predicate "sıachōa" [say.nothing]
+: {} says nothing / is silent.
+
+predicate "sıaq" [right]
+: {} is to the right of {}.
+
+predicate "sıaqcū" [rightwards]
+: {} moves rightwards.
+
+predicate "sıaqpāq" [right]
+: {} is the right part of {}.
+
+predicate "sıaı" [blood]
+: {} is blood.
+
+predicate "sıao" [beginning]
+: {} is a beginning/start; {} is a beginning/start of {}.
+
+predicate "sıu" [similar]
+: {} is similar to {}.
+
+predicate "sıo" [thought]
+: {} is a thought/idea.
+
+predicate "sıoq" [wheel]
+: {} is a wheel.
+
+predicate "sıe" [follow]
+: {} is following to {} in sequence {}.
+
+predicate "sıefā" [follow]
+: {} follows/goes after {}.
+
+predicate "sıeq" [awe]
+: {} feels awe; {} is amazed.
+
+predicate "sıeqcā" [amazing]
+: {0} is amazing.
+
+predicate "sokā" [soccer]
+: {} is soccer/football.
+
+namesake predicate "soq" [most]
+: {} is the {}est among {}; {} is the most {} among {}.
+
+predicate "soq gỉ" [best]
+: {} is the best among {}.
+
+predicate "soq hủı" [worst]
+: {} is the worst among {}.
+
+predicate "soq nủı" [smallest]
+: {} is the smallest among {}.
+
+predicate "soq pủı" [most]
+: {} are the most numerous among {}.
+
+predicate "soq sảo" [biggest]
+: {} is the biggest among {}.
+
+predicate "soa" [help]
+: {} helps {} to satisfy property {}.
+
+predicate "soaq" [garden]
+: {} is a garden.
+
+predicate "soaı" [beam]
+: {} is a beam/ray/line extending outwards from a point.
+
+predicate "soı" [fight]
+: {} fights with {}; {} fights against {}.
+
+predicate "soe" [sour]
+: {} is sour.
+
+predicate "se" [result]
+: {} is a result/product of performing action {}.
+
+predicate "sekūq" [second]
+: {} is a second.
+
+predicate "setā" [zetta]
+: {-d} are 10<sup>21</sup> (1,000,000,000,000,000,000,000) in number; {-d} are a sextillion.
+
+predicate "sea" [rest]
+: {} rests/relaxes.
+
+predicate "seakūaı" [exhausted]
+: {} is exhausted.
+
+predicate "seaq" [have.sex]
+: {} has sex with {}; {} has sexual intercourse with {}.
+
+predicate "seu" [number]
+: {} is a number.
+
+predicate "seo" [spouse]
+: {} is a spouse of {}.
+
+predicate "seoq" [sky]
+: {} is a sky.
+
+predicate "seoqrēa" [horizon]
+: {} is a horizon.
+
+predicate "seoqtūe" [weather]
+: {0} is weather; {0} is the state of the weather.
+* Sẻoqtūe rủqshūa da. : The weather is rainy.
+* Sẻoqtūe rûqshūa da. : The weather is rainy. [The weather is, it rains.]
+
+linking word "ta" [4th.place]
+: linking word: 4th argument place
+
+predicate "tamā" [tomato]
+: {} is a tomato.
+
+predicate "taq" [self]
+: {} is related to itself by property {}.
+
+predicate "taqchāo" [car]
+: {} is a car; {} is an automobile.
+
+predicate "taq tủa mủaq" [commit.suicide]
+: {} commits suicide / kills themselves.
+
+predicate "taı" [succeed]
+: {} succeeds at satisfying property {}.
+
+predicate "tao" [do]
+: {} does {}.
+
+predicate "taodīe" [advise]
+: {} advises {} to do {}.
+
+predicate "taokōe" [choose.to]
+: {} chooses to do {}.
+
+predicate "taomōı" [consider.doing]
+: {} considers doing {}.
+
+predicate "taosīo" [plan]
+: {} is an idea / a plan.
+
+quantifier "tu" [any]
+: quantifier: universal quantifier
+* tu póq : everyone
+* tu ráı : everything; anything
+
+predicate "tuchāo" [bus]
+: {} is a bus/omnibus.
+
+predicate "tuchāocē" [bus.stop]
+: {} is a bus stop.
+
+predicate "tuq" [all]
+: {-d} are all things that satisfy property {-d}.
+
+predicate "tuqfīa" [first]
+: {} is first in sequence {}.
+
+predicate "tuqsīe" [last]
+: {} is last in sequence {}.
+
+predicate "tua" [make.happen]
+: {} makes {} happen.
+
+predicate "tua bủo" [prepare]
+: {} prepares {} for satisfying property {}.
+
+predicate "tua dủa" [tell]
+: {} tells {} that {} is the case; {} makes {} know {}.
+
+predicate "tua dỉa" [lower]
+: {} lowers {} in how much it satisfies property {}.
+
+predicate "tua gảı" [show]
+: {} shows {} state of affairs {}; {} makes {} observe {}.
+
+predicate "tua hỏaq" [ignite]
+: {} ignites {}; {} sets fire to {}.
+
+predicate "tua jẻaq" [raise]
+: {} raises {} in how much it satisfies property {}.
+
+predicate "tua jẻaq gẻa" [raise]
+: {} raises {}.
+
+predicate "tua jẻaq nỉa" [lower]
+: {} lowers {}.
+
+predicate "tua kảqgāı" [show]
+: {} shows {} state of affairs {}; {} makes {} see {}.
+
+predicate "tua nỉe" [put.inside]
+: {} puts {} inside {}.
+
+predicate "tua nẻo" [put.onto]
+: {} puts {} onto {}.
+
+predicate "tua pỏaq" [split]
+: {} breaks/splits/separates {}.
+
+predicate "tua sủo" [break]
+: {} breaks/destroys {}; {} makes {} broken/inoperable.
+
+predicate "tua shỉe" [wake]
+: {} wakes {} up; {} awakens {}.
+
+predicate "tua tỉ" [put]
+: {} puts {} at {}.
+
+predicate "tua tỉrīu" [put.back]
+: {} puts {} back at {}.
+
+predicate "tuaı" [body]
+: {} is a body/corpse.
+
+predicate "tuaıbō" [physical]
+: {} is physical/corporal.
+
+predicate "tuaıcīa" [non-physical]
+: {} is non-physical.
+
+predicate "tuao" [little]
+: {0} is a little bit the case; {} is little/non-much in property {}.
+
+predicate "tuaobū" [quite]
+: {} is quite {}.
+
+predicate "tuı" [sit]
+: {} sits on {}.
+
+predicate "tuıfūa" [chair]
+: {} is a chair/stool/seat/bench.
+
+predicate "tuıtōq" [bench]
+: {} is a bench.
+
+predicate "tuo" [swallow]
+: {} swallows; {} swallows {}.
+
+predicate "tuoq" [heavy]
+: {} is heavy.
+
+predicate "tuoı" [flaw]
+: {} is a flaw/fault/defect in {}.
+
+predicate "tuoıcīa" [flawless]
+: {} is flawless/perfect.
+
+predicate "tue" [state]
+: {0} is a state / state of affairs / situation; {0} is a state of affairs of property {0}.
+
+predicate "tı" [at]
+: {} is at {}.
+
+predicate "tıbūmēo" [miss]
+: {} misses {}; {} is sad that {} is not there.
+
+predicate "tıbī" [TV]
+: {} pertains to television.
+
+predicate "tıdūashō" [find]
+: {} finds {}; {} discovers that {} is at {}.
+
+predicate "tıjāo" [far]
+: {} is far away from {}.
+
+predicate "tıjūı" [near]
+: {} is near / in the vicinity of {}.
+
+predicate "tınīqdūa" [find]
+: {} finds {}; {} discovers that {} is at {}.
+
+predicate "tırīu" [return]
+: {} returns to location {}.
+
+predicate "tıshā" [arrive]
+: {} arrives at {}.
+
+predicate "tıshūe" [stay]
+: {} stays at {}.
+
+predicate "tıq" [tile]
+: {} is a tile.
+
+predicate "tıqshōaı" [butterfly; butterfly, moth, skipper]
+: {} is a butterfly/moth.
+- Refers to any member of the taxonomic order Lepidoptera.
+
+predicate "tıa" [behind]
+: {} is behind {}.
+
+predicate "tıaq" [brown]
+: {} is the colour brown.
+
+predicate "tıaqrēo" [brown]
+: {} is of brown colour.
+
+predicate "tıaı" [box]
+: {} is a box.
+
+predicate "tıao" [match]
+: {} matches/fits/suits {} in relation {}.
+
+statement prefix "tıo" [how.much]
+: statement prefix: how much; to what extent
+
+predicate "tıopūı" [how.many]
+: {-d} are how many.
+
+predicate "tıoq" [lock]
+: {} is a lock.
+
+predicate "tıoqpōa" [locked]
+: {} is locked.
+
+predicate "tıe" [cover]
+: {} covers {}.
+
+predicate "tıechūo" [lid]
+: {} is a lid/cover.
+
+predicate "tıeq" [path]
+: {} is a way/path.
+
+separator "to" [CONJ]
+: helper particle in forethought conjunctions: to + conj {f? d?} to {f? d?}
+
+predicate "toq" [board]
+: {} is a board.
+
+predicate "toqfūa" [table]
+: {} is a table.
+
+predicate "toa" [word]
+: {} is a word.
+
+predicate "toagīu" [line]
+: {} is a line (of text).
+
+predicate "toaq" [language]
+: {} is a language.
+
+predicate "toaı" [quantum]
+: {} is a quantum / smallest possible unit of quantity or quantifiable phenomenon {}.
+
+predicate "toı" [act.towards; act towards, treat, do something to someone]
+: {} does to {} relation {}.
+- This word expresses the generic agent-patient relationship.
+* Pủ tỏı hó jí da. : They did something to me.
+* Tỏı súq hó lî pảırūo ba. : Act towards them in a friendly way.
+* tóı : those who do something to someone
+
+predicate "toe" [cut]
+: {} cuts {} into {}.
+
+predicate "toechūo" [knife]
+: {} is a knife.
+
+predicate "te" [-ed]
+: {} has been {}-ed (property).
+* Tẻ hỉao ní kủnē da. : This dog is injured.
+* Mả pủ sỏa súq hóı hỉaotē kủne moq. : Did you help that injured dog?
+
+predicate "terā" [tera]
+: {-d} are 10<sup>12</sup> (1,000,000,000,000) in number; {-d} are a trillion.
+
+predicate "teq" [pay]
+: {} pays {} to {} for satisfying property {}.
+
+predicate "teqgūaı" [pay.work]
+: {} does paid work {}; {} does {} as a job.
+
+predicate "tea" [scared]
+: {} is scared / experiences fear.
+
+predicate "teaq" [breast]
+: {} is a breast.
+
+predicate "teaqjīeq" [nipple]
+: {} is a nipple.
+
+predicate "teaqnīaı" [mammal]
+: {} is a mammal.
+
+predicate "teaqrīaı" [bra]
+: {} is a bra.
+
+predicate "teı" [form]
+: {} is a form/shape; {} is a form/shape of {}.
+
+end-quote "teo" [»]
+: terminate full-text quote.
+
+predicate "teoq" [question]
+: {} is a question.
+- Refers to a quote rather than a fifth tone content clause.
+
+predicate "teoqkūq" [ask]
+: {} asks question {} to {}.
+
+predicate "teoqmōı" [doubt]
+: {} doubts that {} is the case.
+
+predicate "zuy" [broken]
+: {} is broken/inoperable.
+
+predicate "zeo" [fruit]
+: {} is a fruit.
